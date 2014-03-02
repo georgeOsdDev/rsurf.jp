@@ -12,30 +12,35 @@
 
 <div id="secondary" class="widget-area" role="complementary">
 	<aside id="categories-2" class="widget widget_categories">
-		<ul>
-			<li class="cat-item cat-item-3">
+		<ul id="sidebar_links">
+			<li class="sidebar_links_item cat-item cat-item-3">
 				<a href="/r-kids-free-skate-school">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/kidsskateschool.png" alt="rsurf">
+					R KIDS FREE SKATE SCHOOL
+					<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/kidsskateschool.png" alt="rsurf"> -->
 				</a>
 			</li>
-			<li class="cat-item cat-item-3">
-				<a href="/skate">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/skate.png" alt="rsurf">
+			<li class="sidebar_links_item cat-item cat-item-3">
+				<a href="/skateboard">
+					SKATE
+					<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/skate.png" alt="rsurf"> -->
 				</a>
 			</li>
-			<li class="cat-item cat-item-3">
-				<a href="/surf">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/surf.png" alt="rsurf">
+			<li class="sidebar_links_item cat-item cat-item-3">
+				<a href="/surfboard">
+					SURF
+					<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/surf.png" alt="rsurf"> -->
 				</a>
 			</li>
-			<li class="cat-item cat-item-3">
+			<li class="sidebar_links_item cat-item cat-item-3">
 				<a href="/video">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/video.png" alt="rsurf">
+					VIDEO
+					<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/video.png" alt="rsurf"> -->
 				</a>
 			</li>
-			<li class="cat-item cat-item-3">
+			<li class="sidebar_links_item cat-item cat-item-3">
 				<a href="/gallery">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/gallery.png" alt="rsurf">
+					GALLERY
+					<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/gallery.png" alt="rsurf"> -->
 				</a>
 			</li>
 			<!-- li class="cat-item cat-item-3">
@@ -52,7 +57,7 @@
 								'like_button' => true,
 								'like_button_position' => 'bottom');
 					echo(fbf_short_code($atts));
-				? -->
+				? 
 			</li -->
 		</ul>
 	</aside>

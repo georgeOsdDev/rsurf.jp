@@ -185,3 +185,47 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 .kids_next_day{
 	font-size:200%; color:rgb(151, 238, 20);
 }
+
+.menu-default-container{
+	background: url("/wp-content/themes/rsurf/image/menu_bg.png");
+	background-size: 100% 80%;
+	background-repeat:repeat-x;
+	background-position: 0 13px;
+}
+
+#menu-default{
+	border:none !important;
+}
+
+.menu-item  a {
+	font-family: 'Amatic SC', cursive;
+	font-size: 220%;
+	color: white !important;
+	margin-left: 20px;
+}
+
+.menu-item  a:hover {
+	text-decoration: underline;
+}
+
+.main-navigation li {
+	margin: -19px 40px 5px 0 !important;
+}
+
+.sidebar_links:first-child{
+	margin-top: 0px !important;
+}
+.sidebar_links_item  {
+	background: url("/wp-content/themes/rsurf/image/link_bg.png");
+	background-size: 100% 96%;
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+
+.sidebar_links_item  a {
+	font-family: 'Amatic SC', cursive;
+	font-size: 220%;
+	color: white !important;
+	margin-left: 20px;
+}
+
