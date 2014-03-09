@@ -24,7 +24,6 @@
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
-<link href='http://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
 <?php // Loads HTML5 JavaScript file to add support for HTML5 elements in older IE versions. ?>
 <!--[if lt IE 9]>
 <script src="<?php echo get_template_directory_uri(); ?>/js/html5.js" type="text/javascript"></script>
@@ -60,28 +59,23 @@
 			<h3 class="menu-toggle"><?php _e( 'Menu', 'twentytwelve' ); ?></h3>
 			<a class="assistive-text" href="#content" title="<?php esc_attr_e( 'Skip to content', 'twentytwelve' ); ?>"><?php _e( 'Skip to content', 'twentytwelve' ); ?></a>
 			<?php //wp_nav_menu( array( 'theme_location' => 'primary', 'menu_class' => 'nav-menu' ) ); ?>
-<div class="menu-default-container">
-	<ul id="menu-default" class="nav-menu">
-		<li id="menu-news" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-			<a href="/category/news/">
-				NEWS
-				<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/navbar/news.png" alt="rsurf"> -->
-			</a>
-		</li>
-		<li id="menu-blog" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-			<a href="/category/blog/">
-				DAI'S BLOG
-				<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/navbar/blog.png" alt="rsurf"> -->
-			</a>
-		</li>
-		<li id="menu-shop" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-			<a href="/shop/">
-				SHOP
-				<!-- <img class="logoimg" src="/wp-content/themes/rsurf/image/navbar/shop.png" alt="rsurf"> -->
-			</a>
-		</li>
-	</ul>
-</div>
+<div class="menu-default-container"><ul id="menu-default" class="nav-menu">
+<li id="menu-news" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+	<a href="/category/news/">
+		<img class="logoimg" src="/wp-content/themes/rsurf/image/navbar/news.png" alt="rsurf">
+	</a>
+</li>
+<li id="menu-blog" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+	<a href="/category/blog/">
+		<img class="logoimg" src="/wp-content/themes/rsurf/image/navbar/blog.png" alt="rsurf">
+	</a>
+</li>
+<li id="menu-shop" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+	<a href="/shop/">
+		<img class="logoimg" src="/wp-content/themes/rsurf/image/navbar/shop.png" alt="rsurf">
+	</a>
+</li>
+</ul></div>
 
 		</nav><!-- #site-navigation -->
 

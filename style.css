@@ -186,7 +186,7 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 	font-size:200%; color:rgb(151, 238, 20);
 }
 
-.menu-default-container{
+/*.menu-default-container{
 	background: url("/wp-content/themes/rsurf/image/menu_bg.png");
 	background-size: 100% 80%;
 	background-repeat:repeat-x;
@@ -229,3 +229,4 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 	margin-left: 20px;
 }
 
+*/
