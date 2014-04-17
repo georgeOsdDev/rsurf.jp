@@ -15,27 +15,27 @@
 		<ul>
 			<li class="cat-item cat-item-3">
 				<a href="/r-kids-free-skate-school">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/kidsskateschool.png" alt="rsurf">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/rkidsskateschool.png" alt="rsurf">
 				</a>
 			</li>
 			<li class="cat-item cat-item-3">
 				<a href="/skate">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/skate.png" alt="rsurf">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/skate.png" alt="rsurf">
 				</a>
 			</li>
 			<li class="cat-item cat-item-3">
 				<a href="/surf">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/surf.png" alt="rsurf">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/gallery.png" alt="rsurf">
 				</a>
 			</li>
 			<li class="cat-item cat-item-3">
 				<a href="/video">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/video.png" alt="rsurf">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/video.png" alt="rsurf">
 				</a>
 			</li>
 			<li class="cat-item cat-item-3">
 				<a href="/gallery">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/gallery.png" alt="rsurf">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/deestagram.png" alt="rsurf">
 				</a>
 			</li>
 			<!-- li class="cat-item cat-item-3">

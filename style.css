@@ -136,7 +136,7 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 .menu-default-container img {
 	box-shadow : none;
 	border-radius: none;
-	height:20px;
+	padding-top:5px;
 }
 .footer-w-area after {
     clear: both;
@@ -180,6 +180,7 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 .logoimg,
 .noboxshadow{
 	box-shadow: none !important;
+	height: 30px;
 }
 
 .kids_next_day{

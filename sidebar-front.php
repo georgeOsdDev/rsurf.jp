@@ -35,7 +35,7 @@ if ( ! is_active_sidebar( 'sidebar-2' ) && ! is_active_sidebar( 'sidebar-3' ) )
 			</li>
 			<li class="cat-item cat-item-3">
 				<a href="/surfboard">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/surf.png" alt="rsurf">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/gallery.png" alt="rsurf">
 				</a>
 			</li>
 			<li class="cat-item cat-item-3">
@@ -45,7 +45,7 @@ if ( ! is_active_sidebar( 'sidebar-2' ) && ! is_active_sidebar( 'sidebar-3' ) )
 			</li>
 			<li class="cat-item cat-item-3">
 				<a href="/category/art">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/gallery.png" alt="rsurf">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/sidebar/deestagram.png" alt="rsurf">
 				</a>
 			</li>
 		</ul>
