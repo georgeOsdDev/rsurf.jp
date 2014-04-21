@@ -47,5 +47,7 @@ get_header(); ?>
 		</div><!-- #content -->
 	</section><!-- #primary -->
 
-<?php get_sidebar(); ?>
+<div id="secondaryWrapper">
+	<?php get_sidebar(); ?>
+</div>
 <?php get_footer(); ?>
