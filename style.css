@@ -259,3 +259,12 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
   -moz-transform: matrix(1, 0, 0, -1, 0, 0);
   -webkit-transform: matrix(1, 0, 0, -1, 0, 0);
 }
+
+.logoimg:hover {
+  -webkit-filter: invert(100%);
+  border-radius: 3px;
+}
+
+#menuToggleArrow:hover{
+ -webkit-filter: invert(0%) !important;
+}

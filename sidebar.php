@@ -19,12 +19,17 @@
 				</a>
 			</li>
 			<li class="cat-item cat-item-3">
+				<a href="/tag/kids">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/kidsitem.png" alt="rsurf">
+				</a>
+			</li>
+			<li class="cat-item cat-item-3">
 				<a href="/surfschool">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/surfschool.png" alt="rsurf">
 				</a>
 			</li>
 			<li class="cat-item cat-item-3">
-				<a href="/skateboard">
+				<a href="/tag/skate">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/skate.png" alt="rsurf">
 				</a>
 			</li>
