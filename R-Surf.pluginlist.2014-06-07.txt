@@ -1,9 +1,9 @@
 ------------------------------------------------------------
-  Plugin list generated with BackWPup version: 3.1.1
+  Plugin list generated with BackWPup version: 3.1.2
   https://marketpress.com/product/backwpup-pro/
   Blog Name: R-Surf
   Blog URL: http://rsurf.jp
-  Generated on: 2014-03-01 03:54.17
+  Generated on: 2014-06-07 03:03.50
 ------------------------------------------------------------
 
 
@@ -11,11 +11,13 @@ All plugin information:
 ------------------------------
 Adminer (v.1.3.0) from Frank Bültge
 	http://bueltge.de/adminer-fuer-wordpress/1014/
-Akismet (v.2.5.9) from Automattic
-	http://akismet.com/?return=true
-All In One SEO Pack (v.2.1.4) from Michael Torbert
+Akismet (v.3.0.0) from Automattic
+	http://akismet.com/
+All In One SEO Pack (v.2.1.5) from Michael Torbert
 	http://semperfiwebdesign.com
-BackWPup (v.3.1.1) from Inpsyde GmbH
+Alpine PhotoTile for Instagram (v.1.2.7) from the Alpine Press
+	http://thealpinepress.com/alpine-phototile-for-instagram/
+BackWPup (v.3.1.2) from Inpsyde GmbH
 	https://marketpress.com/product/backwpup-pro/
 Contact Form 7 (v.3.6) from Takayuki Miyoshi
 	http://contactform7.com/
@@ -27,13 +29,15 @@ Facebook, Twitter & Google+ Social Widgets (v.1.3.7) from Andreas Breitschopp
 	http://www.ab-weblog.com/en/wordpress-plug-ins/social-widgets/
 FBF - Facebook Page Feed Widget (v.1.2.1) from Lakshmanan PHP
 	
-Google XML Sitemaps (v.3.4) from Arne Brachhold
+Google XML Sitemaps (v.4.0.5) from Arne Brachhold
 	http://www.arnebrachhold.de/redir/sitemap-home/
 Insert JavaScript & CSS (v.0.2) from Ryan Nutt
 	http://www.nutt.net/tag/insert-javascript-css/
+Instagrate to WordPress (v.1.2.2) from polevaultweb
+	http://www.polevaultweb.com/plugins/instagrate-to-wordpress/
 Require Post Category (v.1.0.4) from Josh Hartman
 	http://www.warpconduit.net/wordpress-plugins/require-post-category/
-Simple Lightbox (v.2.2.1) from Archetyped
+Simple Lightbox (v.2.3.1) from Archetyped
 	http://archetyped.com/tools/simple-lightbox/
 TinyMCE Advanced (v.3.5.9.1) from Andrew Ozz
 	http://www.laptoptips.ca/projects/tinymce-advanced/
@@ -55,11 +59,11 @@ Active plugins:
 Adminer
 Akismet
 All In One SEO Pack
+Alpine PhotoTile for Instagram
 BackWPup
 Custom CSS and JavaScript
-Facebook, Twitter & Google+ Social Widgets
-FBF - Facebook Page Feed Widget
 Google XML Sitemaps
+Insert JavaScript & CSS
 Require Post Category
 Simple Lightbox
 TinyMCE Advanced
@@ -71,7 +75,9 @@ Inactive plugins:
 ------------------------------
 Contact Form 7
 Easy Media Gallery
-Insert JavaScript & CSS
+Facebook, Twitter & Google+ Social Widgets
+FBF - Facebook Page Feed Widget
+Instagrate to WordPress
 WordPress SEO
 WP Super Cache
 WPtouch Mobile Plugin

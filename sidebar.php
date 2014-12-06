@@ -33,11 +33,11 @@
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/skate.png" alt="rsurf">
 				</a>
 			</li>
-			<li class="cat-item cat-item-3">
+			<!-- <li class="cat-item cat-item-3">
 				<a href="/surfboard">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/surfboard.png" alt="rsurf">
 				</a>
-			</li>
+			</li> -->
 			<li class="cat-item cat-item-3">
 				<a href="/artwork">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/artwork.png" alt="rsurf">
@@ -51,6 +51,16 @@
 			<li class="cat-item cat-item-3">
 				<a href="/deestagram">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/deestagram.png" alt="rsurf">
+				</a>
+			</li>
+			<li class="cat-item cat-item-3">
+				<a href="/team">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/team.png" alt="rsurf">
+				</a>
+			</li>
+			<li class="cat-item cat-item-3">
+				<a href="/stock">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/stock.png" alt="rsurf">
 				</a>
 			</li>
 			<!-- li class="cat-item cat-item-3">

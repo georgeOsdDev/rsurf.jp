@@ -246,7 +246,7 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 		margin-right:5px;
 	}
 	#secondary {
-		display:none;
+		/*display:none;*/
 	}
 	#menu-toggle-arrow {
 		display:inline;
