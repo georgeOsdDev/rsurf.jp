@@ -58,14 +58,14 @@
 		<a href="/" title=""><img src="/wp-content/themes/rsurf/image/logo.png" alt="rsurf" height=120></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<div class="menu-default-container"><ul id="menu-default" class="nav-menu">
-			<!-- <li id="menu-news" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-				<a href="/category/news/">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/news.png" alt="rsurf">
-				</a>
-			</li> -->
 			<li id="menu-blog" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="/category/blog/">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/daisblog.png" alt="blog">
+				</a>
+			</li>
+			<!-- <li id="menu-news" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+				<a href="/category/news/">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/news.png" alt="rsurf">
 				</a>
 			</li>
 			<li id="menu-surfboards" class="menu-item menu-item-type-taxonomy menu-item-object-category">
@@ -73,13 +73,14 @@
 				<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/surfboard.png" alt="surfboards">
 			</a>
 			</li>
-			<!-- <li id="menu-shop" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+			<li id="menu-shop" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="/shop/">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/shop.png" alt="rsurf">
 				</a>
 			</li> -->
 			<li id="menu-toggle-arrow" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="#">
+					<img id="menuToggleMenu" class="logoimg" src="/wp-content/themes/rsurf/image/labels/menu.png" alt="rsurf">
 					<img id="menuToggleArrow" class="logoimg" src="/wp-content/themes/rsurf/image/labels/arrow_down.png" alt="rsurf">
 				</a>
 			</li>

@@ -14,6 +14,16 @@
 	<aside id="categories-2" class="widget widget_categories">
 		<ul>
 			<li class="cat-item cat-item-3">
+				<a href="/category/news/">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/news.png" alt="rsurf">
+				</a>
+			</li>
+			<li class="cat-item cat-item-3">
+				<a href="/surfboard">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/surfboard.png" alt="rsurf">
+				</a>
+			</li>
+			<li class="cat-item cat-item-3">
 				<a href="/r-kids-free-skate-school">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/rkidsskateschool.png" alt="rsurf">
 				</a>
@@ -33,11 +43,6 @@
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/skate.png" alt="rsurf">
 				</a>
 			</li>
-			<!-- <li class="cat-item cat-item-3">
-				<a href="/surfboard">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/surfboard.png" alt="rsurf">
-				</a>
-			</li> -->
 			<li class="cat-item cat-item-3">
 				<a href="/artwork">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/artwork.png" alt="rsurf">
