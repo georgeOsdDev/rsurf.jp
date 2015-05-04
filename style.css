@@ -274,6 +274,15 @@ ul.nav-menu>li.menu-item {
 }
 
 
+#latest_entries {
+  margin: -5px 0 15px;
+  list-style: none;
+}
+
+#latest_entries > span {
+  color:red;
+}
+
 /** tag-cloud designe from http://www.nxworld.net/tips/css-tag-cloud.html */
 @import url(http://fonts.googleapis.com/css?family=Cabin+Sketch);
 
