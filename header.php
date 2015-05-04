@@ -24,6 +24,7 @@
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+<link href='http://fonts.googleapis.com/css?family=Cabin+Sketch' rel='stylesheet' type='text/css'>
 <?php // Loads HTML5 JavaScript file to add support for HTML5 elements in older IE versions. ?>
 <!--[if lt IE 9]>
 <script src="<?php echo get_template_directory_uri(); ?>/js/html5.js" type="text/javascript"></script>
@@ -58,21 +59,21 @@
 		<a href="/" title=""><img src="/wp-content/themes/rsurf/image/logo.png" alt="rsurf" height=120></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<div class="menu-default-container"><ul id="menu-default" class="nav-menu">
-			<!-- <li id="menu-news" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-				<a href="/category/news/">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/news.png" alt="rsurf">
-				</a>
-			</li> -->
 			<li id="menu-blog" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="/category/blog/">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/daisblog.png" alt="blog">
 				</a>
 			</li>
-			<li id="menu-surfboards" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+			<!-- <li id="menu-news" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+				<a href="/category/news/">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/news.png" alt="rsurf">
+				</a>
+			</li> -->
+			<!-- <li id="menu-surfboards" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="/surfboard">
 				<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/surfboard.png" alt="surfboards">
 			</a>
-			</li>
+			</li> -->
 			<!-- <li id="menu-shop" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="/shop/">
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/shop.png" alt="rsurf">
@@ -80,7 +81,8 @@
 			</li> -->
 			<li id="menu-toggle-arrow" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="#">
-					<img id="menuToggleArrow" class="logoimg" src="/wp-content/themes/rsurf/image/labels/arrow_down.png" alt="rsurf">
+                                        <img class="logoimg" src="/wp-content/themes/rsurf/image/labels/menu.png" alt="rsurf">
+					<img id="menuToggleArrow" class="logoimg flip-vertical" src="/wp-content/themes/rsurf/image/labels/arrow_down.png" alt="rsurf">
 				</a>
 			</li>
 

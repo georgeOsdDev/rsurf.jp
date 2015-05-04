@@ -236,6 +236,10 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 	height: 40px;
 }
 
+ul.nav-menu>li.menu-item {
+    margin-right :.5em;
+}
+
 #menu-toggle-arrow {
 	display:none;
 }
@@ -267,4 +271,75 @@ a, .site-header h1 a:hover, .site-header h2 a:hover, .main-navigation a:hover, .
 
 #menuToggleArrow:hover{
  -webkit-filter: invert(0%) !important;
+}
+
+
+/** tag-cloud designe from http://www.nxworld.net/tips/css-tag-cloud.html */
+@import url(http://fonts.googleapis.com/css?family=Cabin+Sketch);
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul li.tag-cloud {
+	display: inline-block;
+	margin: 0 0 .3em 1em;
+	padding: 0;
+}
+ul li.tag-cloud a {
+    font-family: 'Cabin Sketch', cursive;
+	position: relative;
+	display: inline-block;
+	height: 20px;
+	line-height: 20px;
+	padding: 0 1em;
+	background-color: #060606;
+	border-radius: 0 3px 3px 0;
+	color: #fff !important;
+	font-size: 13px;
+	text-decoration: none;
+	-webkit-transition: .2s;
+	transition: .2s;
+    margin-left: 1em;
+}
+ul li.tag-cloud a::before {
+	position: absolute;
+	top: 0;
+	left: -10px;
+	content: '';
+	width: 0;
+	height: 0;
+	border-color: transparent #060606 transparent transparent;
+	border-style: solid;
+	border-width: 10px 10px 10px 0;
+	-webkit-transition: .2s;
+	transition: .2s;
+}
+ul li.tag-cloud a::after {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	z-index: 2;
+	display: block;
+	content: '';
+	width: 6px;
+	height: 6px;
+	margin-top: -3px;
+	background-color: #fff;
+	border-radius: 100%;
+}
+ul li.tag-cloud span {
+	display: block;
+	max-width: 100px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+ul li.tag-cloud a:hover {
+	background-color: #555;
+	color: #fff;
+}
+ul li.tag-cloud a:hover::before {
+	border-right-color: #555;
 }
