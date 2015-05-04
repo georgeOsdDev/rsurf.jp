@@ -81,8 +81,8 @@
 			</li> -->
 			<li id="menu-toggle-arrow" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="#">
-                                        <img class="logoimg" src="/wp-content/themes/rsurf/image/labels/menu.png" alt="rsurf">
-					<img id="menuToggleArrow" class="logoimg flip-vertical" src="/wp-content/themes/rsurf/image/labels/arrow_down.png" alt="rsurf">
+					<img id="menuToggleMenu" class="logoimg" src="/wp-content/themes/rsurf/image/labels/menu.png" alt="rsurf">
+					<img id="menuToggleArrow" class="logoimg" src="/wp-content/themes/rsurf/image/labels/arrow_down.png" alt="rsurf">
 				</a>
 			</li>
 
