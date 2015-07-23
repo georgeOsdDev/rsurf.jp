@@ -64,11 +64,11 @@
 					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/daisblog.png" alt="blog">
 				</a>
 			</li>
-			<!-- <li id="menu-news" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-				<a href="/category/news/">
-					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/news.png" alt="rsurf">
+			<li id="store-link-in-header" class="menu-item menu-item-type-taxonomy menu-item-object-category">
+				<a href="http://rsurf.theshop.jp" target="_blank">
+					<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/onlinestore.png" alt="store">
 				</a>
-			</li> -->
+			</li>
 			<!-- <li id="menu-surfboards" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="/surfboard">
 				<img class="logoimg" src="/wp-content/themes/rsurf/image/labels/surfboard.png" alt="surfboards">
@@ -81,8 +81,8 @@
 			</li> -->
 			<li id="menu-toggle-arrow" class="menu-item menu-item-type-taxonomy menu-item-object-category">
 				<a href="#">
-					<img id="menuToggleMenu" class="logoimg" src="/wp-content/themes/rsurf/image/labels/menu.png" alt="rsurf">
-					<img id="menuToggleArrow" class="logoimg" src="/wp-content/themes/rsurf/image/labels/arrow_down.png" alt="rsurf">
+                                        <img class="logoimg" src="/wp-content/themes/rsurf/image/labels/menu.png" alt="rsurf">
+					<img id="menuToggleArrow" class="logoimg flip-vertical" src="/wp-content/themes/rsurf/image/labels/arrow_down.png" alt="rsurf">
 				</a>
 			</li>
 
