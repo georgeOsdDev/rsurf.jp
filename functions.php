@@ -58,4 +58,8 @@ function twentytwelve_footer_widget_class() {
     if ( $class )
         echo $class;
 }
+
+// remove srcset from img tag
+remove_filter( 'the_content', 'wp_make_content_images_responsive' );
+
 ?>
